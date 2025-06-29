@@ -30,7 +30,7 @@ The dataset contains:
 
 ## ✅ How to Participate
 
-1. Join the competition using the [GitHub Classroom Assignment Link](https://classroom.github.com/...)  
+1. Join the competition using the [GitHub Classroom Assignment Link](https://classroom.github.com/a/DLs7HRho)  
 2. Fork the assignment repo and build your segmentation model
 3. Ensure your submission is a valid **COG container**
 4. Push your code to your repo before the deadline
